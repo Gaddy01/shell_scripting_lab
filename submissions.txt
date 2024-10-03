@@ -1,8 +1,0 @@
-student, assignment, submission status
-here, Shell Navigation, submitted
-Noel, Shell Navigation, not submitted
-Gaddiel, shell i/o redirections, submitted
-John, shell i/o redirections, submitted
-Marie, shell permissions, submitted
-Mohammed, shell i/o redirections, not submitted
-Lele, shell navigation, not submitted
